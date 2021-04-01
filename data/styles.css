@@ -12,48 +12,16 @@
 }
 .shape {
 }
-.btn-primary {
-  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:16px;
-  color:#FFFFFF;
-}
-.btn-white {
-  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  text-align:left;
-}
-.btn-white-active {
-  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:#FFFFFF;
-  text-align:left;
-}
-.btn-bd-grey {
-  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
-  font-weight:400;
-  font-style:normal;
-}
 .box_1 {
 }
-.box_2 {
-}
-.ellipse {
-}
 .image {
+}
+.placeholder {
 }
 .button {
 }
 .primary_button {
   color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
 }
 .heading_1 {
   font-family:'ArialMT', 'Arial', sans-serif;
@@ -97,24 +65,13 @@
   text-align:left;
 }
 .label {
-  font-size:14px;
+  font-size:13px;
   text-align:left;
 }
 .paragraph {
   text-align:left;
 }
-.line {
-}
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-.droplist {
-  color:#000000;
-  text-align:left;
-}
-.radio_button {
-  text-align:left;
+.table_cell {
 }
 .menu_item {
 }
@@ -126,7 +83,91 @@
 .flow_shape {
 }
 .connector {
+  color:#000000;
+}
+.snapshot {
+}
+.sticky_1 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
+.box_3 {
+}
+.box_2 {
 }
 .icon {
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.radio_button {
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.box_21 {
+}
+.ellipse {
+}
+.line1 {
+}
+.arrow {
+}
+.link_button {
+  color:#169BD5;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_field1 {
+  color:#000000;
+  text-align:left;
+}
+.btn-primary {
+  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+}
+.btn-white-active {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.btn-white {
+  font-family:'ArialMT', 'Arial', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.btn-bd-grey {
+  font-family:'AppleSDGothicNeo-Regular', 'Apple SD Gothic Neo', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.icon1 {
 }
 textarea, select, input, button { outline: none; }
